@@ -35,6 +35,6 @@
   ```
 ## 加分項目
 - 使用CI/CD服務 (如：Azure Pipelines、Github Actoins等...) 部署WebAPI或系統維護網站
-- 使用Docker或Kubernetes容器技術部署WebAPI或系統維護網站
+- 使用Docker或Kubernetes容器技術部署WebAPI、系統維護網站或資料庫
 - 使用綠界金流和物流API串接購買書籍的功能
 - Android App 加入FCM推播功能
